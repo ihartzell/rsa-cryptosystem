@@ -2,7 +2,7 @@
 
 ## What The Program Does?
 Solves a crypto system containing over 200 cipher text blocks, and gives the plaintext in chunks\
-int a text document.
+in a text document.
 
 ## Background
 This problem was assigned as an extra credit problem, and a classmate and I decided to figure out\
